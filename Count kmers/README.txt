@@ -1,0 +1,1 @@
+run with command line arguments in the format of "file name, kmer size, dna format" eg. dna.fasta 5 fasta
